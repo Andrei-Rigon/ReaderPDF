@@ -1,0 +1,17 @@
+{
+    "name": "andrei/reader-pdf",
+    "description": "andrei",
+    "autoload": {
+        "psr-4": {
+            "Andrei\\ReaderPdf\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "andrei"
+        }
+    ],
+    "require": {
+        "smalot/pdfparser": "^2.11"
+    }
+}
